@@ -1,0 +1,16 @@
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\bin\Debug\PharmacyMenagementSystem.exe.config
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\bin\Debug\PharmacyMenagementSystem.exe
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\bin\Debug\PharmacyMenagementSystem.pdb
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.csproj.AssemblyReference.cache
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.Properties.Resources.resources
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.csproj.GenerateResource.cache
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.csproj.CoreCompileInputs.cache
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.exe
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.pdb
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.Login.resources
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.MedicineForm.resources
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.Employees.resources
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.Company.resources
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.BillingForm.resources
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.HomeForm.resources
+E:\projektine OOP\PharmacyMenagementSystem\PharmacyMenagementSystem\obj\Debug\PharmacyMenagementSystem.Form1.resources
